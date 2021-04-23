@@ -1,0 +1,4 @@
+[13-Sep-2018 11:19:30 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/hwa3f8lqcxno/public_html/estateahead.com/leadsquire/assets/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[13-Sep-2018 11:19:43 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/hwa3f8lqcxno/public_html/estateahead.com/leadsquire/assets/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[13-Sep-2018 11:20:08 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/hwa3f8lqcxno/public_html/estateahead.com/leadsquire/assets/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
+[14-Sep-2018 06:02:51 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/hwa3f8lqcxno/public_html/estateahead.com/leadsquire/assets/phpexcel/Classes/PHPExcel/Writer/Excel2007.php on line 227
